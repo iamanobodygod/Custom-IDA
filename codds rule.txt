@@ -1,0 +1,18 @@
+codds rule
+
+
+ER diagram advantages:
+ER diagram helps to conceptialise the db
+ER diagram gives better understanding of the info to be stored in the db
+reduces complexity
+helps to describe elements using entity relationship models
+allows user to get a preview of the logical structure of the db
+
+derived attribute
+multi valued attribute
+key attribute
+composite
+
+weak entity --> An entity which has reliance on other entity. Eg:
+
+data normalization is the process of reorganizing data so that users can reuse it
